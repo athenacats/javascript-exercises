@@ -1,3 +1,5 @@
+//took forever. worked because of how you can call arguments from a function
+
 function removeFromArray() {
     const myArray = arguments[0];
     for ( let i = 1; i < arguments.length; i++) {
